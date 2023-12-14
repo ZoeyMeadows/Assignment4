@@ -1,0 +1,11 @@
+Idea: Simple flappy bird clone with 10 pipes.
+
+Level will be prebuilt for efficiency.
+
+Working menu
+
+Pipes 
+
+Death screen
+
+Simple jump and gravity.
